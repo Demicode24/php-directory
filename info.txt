@@ -1,0 +1,4 @@
+Primary color- FFAB41
+nav-bar color - B1854E
+text-color - 
+box-color - FFEAD0
